@@ -1,9 +1,9 @@
 # Hello World!
 
-## There are two examples of Hello World! 
+## There are two Hello World! examples
 
-###Go
+### Go
 
 
 
-###Python
+### Python
