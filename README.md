@@ -12,10 +12,3 @@
 
 ![Example](https://github.com/lizeth9797/HelloWorld_GoandPython/blob/master/images/PythonHW.png)
 
-
-
-### TypeScript
-
-![Example](https://github.com/lizeth9797/HelloWorld_GoandPython/blob/master/images/TSHW.png)
-
-
