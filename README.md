@@ -1,6 +1,6 @@
 # Hello World!
 
-## There are two Hello World! examples
+## Here you are two Hello World examples
 
 ### Go
 
